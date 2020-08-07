@@ -8,7 +8,14 @@ The app password should then be copied into the config file inside the quote mar
 
 How to generate app passwords can be found here:
 
-https://support.google.com/mail/answer/185833?
+https://support.google.com/mail/answer/185833
+
 https://support.microsoft.com/en-us/help/12409/microsoft-account-app-passwords-and-two-step-verification
+
 https://help.yahoo.com/kb/generate-third-party-passwords-sln15241.html
+
 https://support.apple.com/en-us/HT204397
+
+To Do:
+    Remove the need for app passwords
+    Create a GUI version
