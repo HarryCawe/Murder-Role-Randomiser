@@ -17,5 +17,5 @@ https://help.yahoo.com/kb/generate-third-party-passwords-sln15241.html
 https://support.apple.com/en-us/HT204397
 
 To Do:
-    Remove the need for app passwords
-    Create a GUI version
+Remove the need for app passwords
+Create a GUI version
