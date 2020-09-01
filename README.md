@@ -15,7 +15,3 @@ https://support.microsoft.com/en-us/help/12409/microsoft-account-app-passwords-a
 https://help.yahoo.com/kb/generate-third-party-passwords-sln15241.html
 
 https://support.apple.com/en-us/HT204397
-
-To Do:
-    Remove the need for app passwords
-    Create a GUI version
