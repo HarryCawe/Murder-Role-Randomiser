@@ -47,6 +47,6 @@ msg.attach(part2)
 with smtplib.SMTP(host='smtp.gmail.com', port=587) as smtp:
   smtp.ehlo() # Start the server
   smtp.starttls()  # Encryption mechanism, connect securely
-  smtp.login('harrycawe@gmail.com', 'ixgoupzmdxhpxkhj')
+  smtp.login('harrycawe@gmail.com', '')
   smtp.send_message(msg)
   print('all good boss!')
